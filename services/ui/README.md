@@ -1,6 +1,6 @@
-# Codeveros UI
+# CODEveros UI
 
-Repository for Codeveros UI
+Repository for CODEveros UI
 
 ### Implementation Options
 
